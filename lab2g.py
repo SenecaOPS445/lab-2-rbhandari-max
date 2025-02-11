@@ -2,9 +2,9 @@
 
 import sys
 
-# Author: Your Full Name
-# Author ID: Your Seneca ID
-# Date Created: 2025/01/27
+# Author: rojina bhandari
+# Author ID: 143292233
+# Date Created: 2025/02/11
 
 # Default timer value
 timer = 3
