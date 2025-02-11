@@ -2,9 +2,9 @@
 
 import sys
 
-# Author: Your Full Name
-# Author ID: Your Seneca ID
-# Date Created: 2025/01/27
+# Author: Your rojina bhandari
+# Author ID: 143292233
+# Date Created: 2025/02/11
 
 if len(sys.argv) < 2:
     print("Usage: ./lab2f.py <number>")
